@@ -1,5 +1,5 @@
 # curso_R
-Scripts das aulas do curso de R
+Scripts das aulas dos cursos de R que foram ministrados durante o ano de 2024
 
 Scripts para as seguintes aulas:
 
