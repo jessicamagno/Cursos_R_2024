@@ -1,7 +1,7 @@
-# curso_R
+# Cursos_R_2024
 Scripts das aulas dos cursos de R que foram ministrados durante o ano de 2024
 
-Scripts para as seguintes aulas:
+Scripts em .R para as seguintes aulas:
 
 - ggplot2 (LAINFS - UFPR) (03/06/2024)
 - Estudo de caso (LAINFS - UFPR) (07/06/2024)
